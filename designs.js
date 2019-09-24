@@ -15,6 +15,7 @@ $(document).ready(function (){
 	//to set the value of inputHeight and inputWeight to N and M
 	var N= $("#inputHeight").val();
 	var M= $("#inputWeight").val();
+	
 
 	//after clicking on submit, call these functions
 	makeGrid(N,M);
