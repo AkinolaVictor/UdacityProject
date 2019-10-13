@@ -1,7 +1,7 @@
 
 //this is a pixel art work
 // Select color input of your choice
-// Select size input to use
+// Select size input to use for this session
 
 // When size is submitted by the user, call makeGrid()
 
