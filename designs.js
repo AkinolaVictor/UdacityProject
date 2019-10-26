@@ -9,7 +9,7 @@
 $(document).ready(function (){
 	//what happens when user clicks submit
 	$("#sizePicker").submit(function (theEvent){
-		//i dont want the default action of the form to occur
+		//i dont want the default action of the form to just occur
 		theEvent.preventDefault();
 
 	//to set the value of inputHeight and inputWeight to N and M
