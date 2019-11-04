@@ -38,7 +38,7 @@ for (var i = 1; i <= height; i++) {
 // Your code goes right here!
 
 };
-//function for making the cells of the grid equal to the value of the color picker when clicked
+//function for making the cells of the grid equal to the value of the color picker when it is clicked
  function useColor(){
  	 //what happens when a cell is clicked upon
 	 $('td').click(function () {
