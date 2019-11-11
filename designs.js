@@ -17,7 +17,7 @@ $(document).ready(function (){
 	var M= $("#inputWeight").val();
 	
 
-	//after clicking on submit, call these functions
+	//after clicking on the submit button , call these functions
 	makeGrid(N,M);
 	useColor();
 	});
