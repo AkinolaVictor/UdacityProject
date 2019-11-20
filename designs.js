@@ -5,7 +5,7 @@
 
 // When size is submitted by the user, call makeGrid()
 
-/*the document must be ready before being used, i mean the DOM*/
+/*this document must be ready before being used, i mean the DOM*/
 $(document).ready(function (){
 	//what happens when user clicks submit
 	$("#sizePicker").submit(function (theEvent){
